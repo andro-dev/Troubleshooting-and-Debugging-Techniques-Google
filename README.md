@@ -1,3 +1,5 @@
+# Example of how to save and organize training materials when taking a course
+
 # Troubleshooting and Debugging Techniques by Google on Coursera
 
 <p align="center">
